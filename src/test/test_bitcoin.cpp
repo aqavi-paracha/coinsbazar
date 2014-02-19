@@ -1,4 +1,4 @@
-#define BOOST_TEST_MODULE Bitcoin Test Suite
+#define BOOST_TEST_MODULE CoinsBazar Test Suite
 
 
 
